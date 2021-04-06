@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "mythic",
-  "version": "${1.0 beta}",
+  "version": "${version}",
 
   "name": "MythicCraft",
   "description": "This mod contains mythical creatures and magic",
